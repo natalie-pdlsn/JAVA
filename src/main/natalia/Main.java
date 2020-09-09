@@ -1,4 +1,4 @@
-package main.vitaliykyq;
+package main.natalia;
 
 public class Main {
 
